@@ -1,3 +1,5 @@
+![YouTube Background](https://wallpapers.com/images/high/tilted-youtube-background-funqyvu7re0mtfil.webp)
+
 # YouTube Comment Scraper
 
 `YouTubeCommentScraper` is a Python package designed to scrape comments from YouTube videos using Selenium. The scraper is customizable, allowing you to run the browser in headless mode, control the timeout, pause time for scrolling, and more. You can also choose whether to log actions and return the page source along with the comments.
