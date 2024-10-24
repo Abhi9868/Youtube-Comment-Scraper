@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='youtube-comments-scrapper',  # Replace with your package name
-    version='0.4.0',
+    version='1.0.0',
     description='A Python package to scrape YouTube comments using Selenium and BeautifulSoup',
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
