@@ -158,7 +158,8 @@ scraper.log_error("This is an error message.")
 
 
 ## License
-This project is licensed under the MIT License.
+
+This project is licensed under the [MIT License](LICENSE).
 
 
 
